@@ -1,0 +1,11 @@
+{
+  "name": "md_pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tgabi333/md_pdf.git",
+  "author": "tgabi333 <tgabi333@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}
