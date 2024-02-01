@@ -35,6 +35,7 @@ pdf_options:
 | Név: **Premium Ultimate Kft.**<br>Cím: **1163 Budapest, Veres Péter út 51.**<br>Adószám: **32474341-2-42** | Név: **Tóth Gábor László**<br> Születési dátum: **1984-02-17**<br> Lakcím: **2170 Aszód, Bethlen Gábor utca 49.**<br> Taj-szám: **039-559-960** |
 
 ## Munkaviszony részletei
+
 Megnevezés: **Információ-technológiai szaktanácsadó**
 
 Munkaviszony kezdő dátuma: **~~[Kezdő dátum]~~**. A munkaszerződés határozatlan időre jön szól.
@@ -48,9 +49,11 @@ Munkáltatói jogkör gyakorlója: **Szűcs Andrea, tulajdonos**
 Kártérítési felelősség: **a Munka Törvénykönyvének szabályai irányadók**
 
 ### Titoktartás
+
 A munkavállaló köteles a munkája során tudomására jutott üzleti titkot, valamint a munkáltatóra, illetve a tevékenységére vonatkozó alapvető fontosságú információkat megőrizni. Ezen túlmenően sem közölhet illetéktelen személlyel olyan adatot, amely munkaköre betöltésével összefüggésben jutott a tudomására, és amelynek közlése a munkáltatóra vagy más személyre hátrányos következménnyel járna.
 
 ## Munkáltatói tájékoztató
+
 Munkaidő: **általános teljes napi munkaidő**
 
 Alapbéren túli munkabér: **a Munka Törvénykönyvének szabályai irányadók**

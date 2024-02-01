@@ -7,6 +7,10 @@ const execPromise = promisify(exec)
 let currentPromise = null
 
 chokidar.watch('./content', { ignoreInitial: true }).on('all', (event, path) => {
+    if (path === 'content/digest.json') {
+        return
+    }
+
     console.log(event, path)
     if (!currentPromise) {
         console.log('CONVERT')

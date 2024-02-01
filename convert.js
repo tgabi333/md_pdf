@@ -43,5 +43,5 @@ import { mdToPdf } from 'md-to-pdf';
         }
     }
 
-    fs.writeFile('./content/digest.json', JSON.stringify(Array.from(hashes.entries())))
+    fs.writeFile('./content/digest.json', JSON.stringify(Array.from(hashes.entries()), null, 2))
 })();
