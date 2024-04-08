@@ -30,17 +30,17 @@ pdf_options:
 # Munkaszerződés
 
 ## Felek
-| Munkáltató                                                                                                 |                                                                                                                                    Munkavállaló |
-| :--------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------: |
-| Név: **Premium Ultimate Kft.**<br>Cím: **1163 Budapest, Veres Péter út 51.**<br>Adószám: **32474341-2-42** | Név: **Tóth Gábor László**<br> Születési dátum: **1984-02-17**<br> Lakcím: **2170 Aszód, Bethlen Gábor utca 49.**<br> Taj-szám: **039-559-960** |
+| Munkáltató                                                                                                 |                                                                                                                                                                                                                                         Munkavállaló |
+| :--------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Név: **Premium Ultimate Kft.**<br>Cím: **1163 Budapest, Veres Péter út 51.**<br>Adószám: **32474341-2-42** | Név: **Tóth Gábor László**<br> Születési dátum: **1984-02-17**<br>Születési hely: **Hatvan**<br>Anyja neve: **Rafael Erzsébet**<br> Lakcím: **1164. Budapest, Levedi utca 4. i/2**<br> TAJ szám: **039-559-960**<br>Adóazonosító jel: **8427803125** |
 
 ## Munkaviszony részletei
 
 Megnevezés: **Információ-technológiai szaktanácsadó**
 
-Munkaviszony kezdő dátuma: **~~[Kezdő dátum]~~**. A munkaszerződés határozatlan időre jön szól.
+Munkaviszony kezdő dátuma: **2024. március 27.**. A munkaszerződés határozatlan időre jön szól.
 
-Havi bruttó személyi alapbér:  **~~xxx Ft~~**, azaz **~~hétszáznyolcvan forint~~**
+Havi bruttó személyi alapbér:  **326.000 Ft**, azaz **háromszázhuszonhatezer forint**
 
 Próbaidő: **nincs**
 
@@ -50,7 +50,15 @@ Kártérítési felelősség: **a Munka Törvénykönyvének szabályai irányad
 
 ### Titoktartás
 
-A munkavállaló köteles a munkája során tudomására jutott üzleti titkot, valamint a munkáltatóra, illetve a tevékenységére vonatkozó alapvető fontosságú információkat megőrizni. Ezen túlmenően sem közölhet illetéktelen személlyel olyan adatot, amely munkaköre betöltésével összefüggésben jutott a tudomására, és amelynek közlése a munkáltatóra vagy más személyre hátrányos következménnyel járna.
+A Felek megállapodnak, hogy a jelen Szerződés teljesítése vonatkozásában a másik Félről, annak partnereiről, valamint a
+felhasználókról tudomásukra jutott valamennyi tényt, adatot, információt üzleti titokként (a továbbiakban: Üzleti titok) kezelik, azt
+harmadik féllel nem közlik, és nem használják fel jelen Szerződéssel össze nem függően. Kivételt képez a fentiekben foglaltak alól, ha
+az adatszolgáltatásra a másik Fél előzetesen írásban engedélyt adott, vagy az adatszolgáltatás jogszabályi rendelkezésen vagy bírósági,
+hatósági határozaton alapul.
+
+A Felek jelen Szerződés aláírásával egyidejűleg kötelezettséget vállalnak arra, hogy Üzleti titoknak minősülő információkat sem a
+jelen Szerződés időbeli hatálya alatt, sem annak megszűnését követően korlátlan ideig nem teszik harmadik személyek számára
+hozzáférhetővé, illetőleg azokat egyéb módon sem használják fel és azzal nem élnek vissza.
 
 ## Munkáltatói tájékoztató
 
@@ -70,10 +78,11 @@ Felmondási idő: **a Munka Törvénykönyvének szabályai irányadók**
 
 Munkáltató kollektív szerződés hatálya alá tartozik-e: **NEM**
 
-munkáltató képzési politikájáról, a munkavállaló igénybe vehető, képzésre fordítható idő tartamáról
-hatóság megnevezéséről, amely részére a munkáltató a közterheket megfizeti,
+Munkáltató képzési politikája: A munkáltató csupán elvi támogatást - sem munkaidőt, sem anyagi támogatást nem nyújt - a munkavállalók szakmai fejlődéséhez.
 
-<div class="page-break"></div>
+Munkavállaló által igénybe vehető, képzésre fordítható munkaidő: **nincs**
+
+Hatóság amely részére a munkáltató a közterheket megfizeti: **Nemzeti Adó- és Vámhivatal**
 
 ## Munkaköri leírás
 
@@ -102,12 +111,12 @@ Az Információ-technológiai szaktanácsadó felelős a következő feladatoké
 ## Szerződéskötés helye és dátuma
 Helye: **Budapest**
 
-Dátum: ~~**asfsaf**~~
+Dátum: **2024. március 27.**
 
 ---
 
 
-| Munkáltató cégszerű aláírása                                                       | Munkavállaló aláírása |
-| :--------------------------------------------------------------------------------- | --------------------: |
-| <br><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |      <br><br><br><br> |
+| Munkáltató cégszerű aláírása                                                       |                                                              Munkavállaló aláírása |
+| :--------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------: |
+| <br><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
