@@ -51,7 +51,7 @@ Releváns részek a Felek között 2024. március 26-án létrejött *Vállalkoz
 
 A Megbízott kijelenti, hogy a szerződésben foglaltak szerinti szóban és/vagy írásban kapott feladatait a Megbízó utasításainak megfelelően, a Megbízóval egyeztett módon és határidőben teljesítette az alábbi időszakban: 
 
-**2024. március 27-től 2024. április 30-ig.**
+**2024. május hónap.**
 
 <br>
 <br>
