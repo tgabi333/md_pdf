@@ -128,6 +128,8 @@ table tr {
 	border-top: 1px solid gainsboro;
 }
 
+/* 
 table tr:nth-child(2n) {
-	background-color: whitesmoke;
+	background-color: whitesmoke; 
 }
+*/

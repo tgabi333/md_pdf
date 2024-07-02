@@ -43,15 +43,11 @@ Releváns részek a Felek között 2024. március 26-án létrejött *Vállalkoz
 18.   A Felek megállapodnak, hogy a Megbízott havonta utólag jogosult az adott tárgyhónapban felmerült díját a Megbízónak kiszámlázni. Megbízott számlája mellé teljesítési igazolást köteles csatolni, amelyet a Megbízó aláírásával igazol.
 ```
 
-```
-21. A Felek megállapodnak, hogy a jelen megbízási szerződés 2024. március 27-én lép hatályba és határozatlan időre szól azzal, hogy a 2024. áprilisra fizetendő havidíj a 2024. március 27-31. közötti teljesítést is fedezi.
-```
-
 ## Teljesítés igazolás tárgya
 
 A Megbízott kijelenti, hogy a szerződésben foglaltak szerinti szóban és/vagy írásban kapott feladatait a Megbízó utasításainak megfelelően, a Megbízóval egyeztett módon és határidőben teljesítette az alábbi időszakban: 
 
-**2024. május hónap.**
+**2024. július hónap.**
 
 <br>
 <br>
@@ -65,10 +61,10 @@ A Megbízott kijelenti, hogy a szerződésben foglaltak szerinti szóban és/vag
 <br>
 <br>
 <br>
-<br>
 
-**Kelt**: Budapest, 2024. május 01.
+**Kelt**: Budapest, 2024. augusztus 01.
 
 | Megbízó cégszerű aláírása                                                                    |                                                                  Megbízott cégszerű aláírása |
 | :------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------: |
-| <br><br><br>----------------------------------------------<br>Gyenese Péter<br>Vezérigazgató | <br><br><br>----------------------------------------------<br>Tóth Gábor László<br>Ügyvezető |
+| <br><br><br>----------------------------------------------<br>Gyenese Péter<br>Vezérigazgató | |
+| <br><br><br>----------------------------------------------<br>Dr. Csege Gyula<br>más munkavállaló | <br><br><br>----------------------------------------------<br>Tóth Gábor László<br>Ügyvezető |
